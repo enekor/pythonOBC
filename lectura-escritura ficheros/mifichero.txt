@@ -1,0 +1,3 @@
+una linea bonita
+salto de linea incorporado
+otra linea mas
